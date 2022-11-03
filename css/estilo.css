@@ -1,0 +1,13 @@
+#linha {
+    float: left;
+    width:350px;
+    height: 950px;
+    text-align: center;
+}
+
+#linha2 {
+    float: left;
+    width: 500px;
+    height: 950px;
+    text-align: center;
+}
